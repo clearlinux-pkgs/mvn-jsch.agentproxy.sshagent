@@ -4,7 +4,7 @@
 #
 Name     : mvn-jsch.agentproxy.sshagent
 Version  : 0.0.7
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.sshagent/0.0.7/jsch.agentproxy.sshagent-0.0.7.jar
 Source0  : https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.sshagent/0.0.7/jsch.agentproxy.sshagent-0.0.7.jar
 Source1  : https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.sshagent/0.0.7/jsch.agentproxy.sshagent-0.0.7.pom
